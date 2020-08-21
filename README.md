@@ -1,2 +1,2 @@
 # learngit
-# add some tex to readme
+# add some tex to readmegit 
